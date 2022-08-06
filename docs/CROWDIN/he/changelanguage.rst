@@ -19,3 +19,4 @@
 * `ליטאית<https://androidaps.readthedocs.io/lt/latest/>`_
 * `רוסית<https://androidaps.readthedocs.io/ru/latest/>`_
 * `ספרדית<https://androidaps.readthedocs.io/es/latest/>`_
+* `עברית<https://androidaps.readthedocs.io/he/latest/>`_
